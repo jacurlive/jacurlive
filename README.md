@@ -5,11 +5,10 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=kkirchh" alt="kkirchh" /></a> </p>
 
-- 🔭 I’m currently working on [django blog web site](https://github.com/kkirchh/django_blog)
 
-- 🌱 I’m currently learning **Docker, Django, FastApi**
+- 🌱 I’m currently learning **Docker and Cryptography**
 
-- 👨‍💻 All of my projects are available at [portfolio link](portfolio link)
+<!-- - 👨‍💻 All of my projects are available at [portfolio link](portfolio link) -->
 
 - 📫 How to reach me **jasurkkirch@gmail.com**
 
