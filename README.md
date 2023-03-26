@@ -3,12 +3,8 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kkirchh&label=Profile%20views&color=0e75b6&style=flat" alt="kkirchh" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=kkirchh" alt="kkirchh" /></a> </p>
 
-
-- 🌱 I’m currently learning **Docker and Cryptography**
-
-<!-- - 👨‍💻 All of my projects are available at [portfolio link](portfolio link) -->
+![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
 
 - 📫 How to reach me **jasurkkirch@gmail.com**
 
