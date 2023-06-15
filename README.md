@@ -1,7 +1,7 @@
-- I'm @jacurlive
-- Python
-- Software Engineer
-- 📫 How to reach me **jasurkkirch@gmail.com**
+- 👋🏻 I'm @jacurlive
+- 🐍 Python
+- 👨🏻‍💻 Software Engineer
+- 📫**jasurkkirch@gmail.com**
 
 <!-- <p align="left"> <img src="https://komarev.com/ghpvc/?username=kkirchh&label=Profile%20views&color=0e75b6&style=flat" alt="kkirchh" /> </p> -->
 
